@@ -1,66 +1,75 @@
-<!DOCTYPE html>
-<html lang="fa">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>NTK Cms - Admin Panel</title>
-    <base href="/" />
-    <link rel="icon" type="image/x-icon" href="favicon.ico" />
-    <link
-      href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"
-      rel="stylesheet"
-    />
-    <link href="assets/fonts/feather/style.min.css" rel="stylesheet" />
-    <link href="assets/fonts/simple-line-icons/style.css" rel="stylesheet" />
+<!doctype html>
+<html lang="en" direction="rtl" dir="rtl" style="direction: rtl">
+<head>
+  <meta charset="utf-8">
+  <title>NTK Cms</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/x-icon" href="./assets/media/logos/favicon.ico">
+   <style>
 
-    <link rel="stylesheet" href="assets/fonts/iransans/style.css">
+    #splash-screen {
+      position: absolute;
+      z-index: 1000;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      background-color: #f2f3f8;
+    }
 
-    <link
-      rel="stylesheet"
-      href="assets/vendor/pace/themes/black/pace-theme-flash.css"
-    />
-    <style type="text/css">
-      .pace .pace-activity {
-        top: 19px;
-        right: 19px;
-        display: none;
+    #splash-screen img {
+      margin-left: calc(100vw - 100%);
+      margin-bottom: 30px;
+    }
+
+    #splash-screen.hidden {
+      opacity: 0;
+      visibility: hidden;
+    }
+
+    .splash-spinner {
+      animation: rotate 2s linear infinite;
+      margin-left: calc(100vw - 100%);
+      width: 50px;
+      height: 50px;
+    }
+
+    .splash-spinner .path {
+      stroke: #5d78ff;
+      stroke-linecap: round;
+      animation: dash 1.5s ease-in-out infinite;
+    }
+
+    @keyframes rotate {
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    @keyframes dash {
+      0% {
+        stroke-dasharray: 1, 150;
+        stroke-dashoffset: 0;
       }
 
-      .page-loading {
-        position: fixed;
-        left: 0;
-        top: 0;
-        bottom: 0;
-        right: 0;
-        overflow: hidden;
-        background: rgba(51, 51, 51, 1);
-        opacity: 0;
-        transition: opacity 1s ease-in-out;
-        z-index: -1;
+      50% {
+        stroke-dasharray: 90, 150;
+        stroke-dashoffset: -35;
       }
 
-      .loading-icon {
-        position: absolute;
-        left: 50%;
-        top: 50%;
-        width: 38px;
-        height: 38px;
-        margin-left: -19px;
-        margin-top: -19px;
+      100% {
+        stroke-dasharray: 90, 150;
+        stroke-dashoffset: -124;
       }
-
-      app-root:empty ~ .page-loading {
-        opacity: 1;
-        z-index: 1;
-      }
-    </style>
-  </head>
-
-  <body>
-    <app-root></app-root>
-    <div class="page-loading">
-      <img src="assets/img/oval.svg" class="loading-icon" />
-    </div>
-  <script src="runtime.js"></script><script src="polyfills-es5.js" nomodule></script><script src="polyfills.js"></script><script src="styles.js"></script><script src="scripts.js"></script><script src="vendor.js"></script><script src="main.js"></script></body>
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="styles.61b84aee74a23ec62dd8.css"></head>
+<body>
+<app-root></app-root>
+<script src="runtime.e42448c4d7bcb0ca841d.js" defer></script><script src="polyfills.2129f34f46fb1a60490e.js" defer></script><script src="scripts.9515b8e1c84526a10349.js" defer></script><script src="main.32b612fa3953f12a6e97.js" defer></script></body>
 </html>
