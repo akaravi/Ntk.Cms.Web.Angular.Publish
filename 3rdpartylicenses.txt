@@ -525,8 +525,13 @@ MIT
 ngx-clipboard
 MIT
 
+ngx-color-picker
+MIT
+
 ngx-highlightjs
 MIT
+
+ngx-icon-picker
 
 ngx-ntk-smart-module
 ISC
