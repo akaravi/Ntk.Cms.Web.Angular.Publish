@@ -579,9 +579,6 @@ ISC
 ntk-cms-filemanager
 ISC
 
-ntk-cms-fileuploader
-ISC
-
 object-path
 MIT
 The MIT License (MIT)
