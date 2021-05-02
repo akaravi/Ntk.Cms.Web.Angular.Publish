@@ -533,13 +533,13 @@ MIT
 
 ngx-icon-picker
 
+ngx-ntk-query-builder
+ISC
+
 ngx-ntk-smart-module
 ISC
 
 ngx-perfect-scrollbar
-MIT
-
-ngx-query-builder
 MIT
 
 ngx-toastr
