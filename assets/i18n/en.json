@@ -133,7 +133,11 @@
     "NEXT": "Next",
     "BACK": "Back",
     "BEFOR": "Befor",
-    "VIEW": "View"
+    "VIEW": "View",
+    "BUY": "Buy",
+    "DETAIL": "Detail",
+    "SELECT": "Select",
+    "PAYMENT": "Peyment"
   },
   "TITLE": {
     "SITE": "Site",
