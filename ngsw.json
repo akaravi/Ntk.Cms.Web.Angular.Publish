@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1692362142141,
+  "timestamp": 1692416414850,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -126,7 +126,7 @@
         "/manifest.webmanifest",
         "/polyfills.0a269c5d118c30ef.js",
         "/runtime.2b4b73ca21da11af.js",
-        "/styles.5998459f0be9da0e.css"
+        "/styles.0fc88d85327bbed4.css"
       ],
       "patterns": []
     },
@@ -7411,7 +7411,7 @@
     "/fontawesome-webfont.e9955780856cf8aa.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
     "/grab.9456cfe40e93bd91.svg": "bf732e6413db115ab002257a41b50ee303c9e9be",
     "/grabbing.d045e2c064e9c9d6.svg": "9a40ab0918db89c9562a626b3c3ec5159a1a7d3d",
-    "/index.html": "9562e6287f0dfc17051b35244144a808af359811",
+    "/index.html": "2d0f5177f9d52316691100897011d091c9e874a9",
     "/la-brands-400.122c41372c4c30ef.woff2": "89f4f0d9ee3a2bde5fa250bbe6dc4a4804e1a863",
     "/la-brands-400.1ec1f0f5e9b47729.woff": "5f364cdf5fdd92380deffdb7982b573b119e0744",
     "/la-brands-400.4343d0c03a27309c.ttf": "10a04af3d80f9a83ef2412dedd6b76be7a0c0a66",
@@ -7435,7 +7435,7 @@
     "/socicon.a63bbcf3d1d6ee13.svg": "8497253952c4f8d99af684982902912f15a079f0",
     "/socicon.dede15d50932532d.ttf": "75ab624aee5ff7c32420d705587517e22256e6a0",
     "/sprites.ef90573eea8832b4.svg": "d4d17b6fbfd542db8a18254a83f81a1a6a08b9f5",
-    "/styles.5998459f0be9da0e.css": "630093e26c6285a89c740de92306104345216b14"
+    "/styles.0fc88d85327bbed4.css": "907b9bfafa0c358f7b7b81364ede4467bbc4ce9f"
   },
   "navigationUrls": [
     {
