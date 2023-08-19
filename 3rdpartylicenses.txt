@@ -1,3 +1,6 @@
+@angular-material-components/color-picker
+MIT
+
 @angular/animations
 MIT
 
@@ -1062,9 +1065,6 @@ ngx-awesome-uploader
 MIT
 
 ngx-clipboard
-MIT
-
-ngx-color-picker
 MIT
 
 ngx-icon-picker
