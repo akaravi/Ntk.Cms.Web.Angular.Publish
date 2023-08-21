@@ -1,6 +1,3 @@
-@angular-material-components/color-picker
-MIT
-
 @angular/animations
 MIT
 
@@ -1095,6 +1092,9 @@ SOFTWARE.
 
 
 ngx-ntk-cron-editor
+ISC
+
+ngx-ntk-mat-color-picker
 ISC
 
 ngx-ntk-query-builder
