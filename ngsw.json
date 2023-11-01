@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1698807698023,
+  "timestamp": 1698815239597,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -26,7 +26,7 @@
         "/2275.01a111d669af7213.js",
         "/2337.3e282020ba6587ec.js",
         "/2430.8b9ad1ec8b34fb83.js",
-        "/2461.106b45c503975179.js",
+        "/2461.d680d3ab3342d739.js",
         "/255.203c460836804e81.js",
         "/2554.56df7f7e12177c7e.js",
         "/28.c03317d4b0d83ef6.js",
@@ -124,7 +124,7 @@
         "/main.cc0df6fae1ed6328.js",
         "/manifest.webmanifest",
         "/polyfills.0a269c5d118c30ef.js",
-        "/runtime.63d736ab78c72a4d.js",
+        "/runtime.979cb1cd99887318.js",
         "/styles.8389bcfc293e7eaa.css"
       ],
       "patterns": []
@@ -3759,7 +3759,7 @@
     "/2275.01a111d669af7213.js": "6ace38fd08e0077219da415cbd33370fbbedbd18",
     "/2337.3e282020ba6587ec.js": "2cad40c076e04cc9791cf8fedb1f47ed9b5769c5",
     "/2430.8b9ad1ec8b34fb83.js": "93f7616a28104e487bcaadf1d5d46198a4bea25d",
-    "/2461.106b45c503975179.js": "c24f2c49096dc3e7b65ec4865f32a2c7d401aae0",
+    "/2461.d680d3ab3342d739.js": "2da3db1da8ed76de71eb99adc62d421cf60b0df0",
     "/255.203c460836804e81.js": "8a885cfc3d9458d06dd043decc9f1dd6bbcc0071",
     "/2554.56df7f7e12177c7e.js": "25eda3cb8df115d4724695dc0f25603cd489c0d7",
     "/28.c03317d4b0d83ef6.js": "759d93b0661fca4bd3cd5c34406da36e63a0bd5e",
@@ -7435,7 +7435,7 @@
     "/fontawesome-webfont.e9955780856cf8aa.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
     "/grab.6e9532163399580f.svg": "45cc2a5002b229667a9d0017b913552076f8a6d4",
     "/grabbing.7e5805f24588859b.svg": "b859242439f4afbace6b4036d0e04203b70659ce",
-    "/index.html": "248f7c5fffb4dc76f58cdaba0bc0c8b0dfc3f9db",
+    "/index.html": "41bf9d1825898abeb1fc6cd0578353ca41d77452",
     "/la-brands-400.122c41372c4c30ef.woff2": "89f4f0d9ee3a2bde5fa250bbe6dc4a4804e1a863",
     "/la-brands-400.1ec1f0f5e9b47729.woff": "5f364cdf5fdd92380deffdb7982b573b119e0744",
     "/la-brands-400.4343d0c03a27309c.ttf": "10a04af3d80f9a83ef2412dedd6b76be7a0c0a66",
@@ -7454,7 +7454,7 @@
     "/manifest.webmanifest": "c7486042056997228d4f5ebe18f08910fd8659c2",
     "/marker-icon.d577052aa271e13f.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
     "/polyfills.0a269c5d118c30ef.js": "4a96bba36777690be3907ec232ec9cbc047c7f85",
-    "/runtime.63d736ab78c72a4d.js": "e5f818432a4f476ee91270b43a273f2937b57b47",
+    "/runtime.979cb1cd99887318.js": "cc5cc410b4ecb22d8970a654d21192febf3fb995",
     "/socicon.29f8e6beabb93c1b.woff": "28a5937ba6c82ce39b1d581f42a23ce8eec6cc6c",
     "/socicon.a63bbcf3d1d6ee13.svg": "8497253952c4f8d99af684982902912f15a079f0",
     "/socicon.dede15d50932532d.ttf": "75ab624aee5ff7c32420d705587517e22256e6a0",
